@@ -15,5 +15,6 @@ These properties ensure that search operations can be performed in O(log n) time
 - **Utility Methods**: Methods to find the minimum and maximum elements, calculate the height of the tree, and count the number of nodes.
 
 Estan presentes la mayoria de las funciones aunque unas presentan errores:
+
 ![image](https://github.com/user-attachments/assets/d526b261-1e2c-4046-abcf-379aa2003e8f)
 
